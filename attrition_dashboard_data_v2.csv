@@ -1,0 +1,312 @@
+EmpID,Department,Position,ManagerName,RecruitmentSource,PerformanceScore,Salary,SalaryBand,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,DaysLateLast30,Absences,DateofHire,HireYear,DateofTermination,TermReason,Status,Left,TenureYears,Sex,AgeGroup,AttritionStatus,TermYear,TermMonth
+10026,Production,Production Technician I,Michael Albert,LinkedIn,Exceeds,62506,2. 55k-65k,4.6,5,0,0,1,2011-07-05,2011,,N/A-StillEmployed,Active,0,7.65,Male,2. 30-39,Retention,,
+10084,IT/IS,Sr. DBA,Simon Roup,Indeed,Fully Meets,104437,4. 80k+,4.96,3,6,0,17,2015-03-30,2015,2016-06-16,career change,Left,1,1.22,Male,3. 40-49,Attrition,2016,2016-06-01
+10196,Production,Production Technician II,Kissy Sullivan,LinkedIn,Fully Meets,64955,2. 55k-65k,3.02,3,0,0,3,2011-07-05,2011,2012-09-24,hours,Left,1,1.22,Female,1. Under 30,Attrition,2012,2012-09-01
+10088,Production,Production Technician I,Elijiah Gray,Indeed,Fully Meets,64991,2. 55k-65k,4.84,5,0,0,15,2008-01-07,2008,,N/A-StillEmployed,Active,0,11.14,Female,2. 30-39,Retention,,
+10069,Production,Production Technician I,Webster Butler,Google Search,Fully Meets,50825,1. Under 55k,5.0,4,0,0,2,2011-07-11,2011,2016-09-06,return to school,Left,1,5.16,Female,1. Under 30,Attrition,2016,2016-09-01
+10002,Production,Production Technician I,Amy Dunn,LinkedIn,Exceeds,57568,2. 55k-65k,5.0,5,0,0,15,2012-01-09,2012,,N/A-StillEmployed,Active,0,7.14,Female,3. 40-49,Retention,,
+10194,Software Engineering,Software Engineer,Alex Sweetwater,LinkedIn,Fully Meets,95660,4. 80k+,3.04,3,4,0,19,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Female,2. 30-39,Retention,,
+10062,Production,Production Technician I,Ketsia Liebig,Employee Referral,Fully Meets,59365,2. 55k-65k,5.0,4,0,0,19,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Male,2. 30-39,Retention,,
+10114,Production,Production Technician I,Brannon Miller,Diversity Job Fair,Fully Meets,47837,1. Under 55k,4.46,3,0,0,4,2009-07-06,2009,,N/A-StillEmployed,Active,0,9.65,Female,3. 40-49,Retention,,
+10250,IT/IS,IT Support,Peter Monroe,Indeed,Fully Meets,50178,1. Under 55k,5.0,5,6,0,16,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Male,2. 30-39,Retention,,
+10252,Production,Production Technician I,David Stanley,Diversity Job Fair,Fully Meets,54670,1. Under 55k,4.2,4,0,0,12,2011-01-10,2011,2017-01-12,Another position,Left,1,6.01,Female,3. 40-49,Attrition,2017,2017-01-01
+10242,Production,Production Technician I,Kissy Sullivan,Diversity Job Fair,Fully Meets,47211,1. Under 55k,4.2,3,0,0,15,2012-04-02,2012,2016-09-19,unhappy,Left,1,4.47,Male,3. 40-49,Attrition,2016,2016-09-01
+10012,IT/IS,Data Analyst,Simon Roup,Diversity Job Fair,Exceeds,92328,4. 80k+,4.28,4,5,0,9,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Male,2. 30-39,Retention,,
+10265,Production,Production Technician I,Kelley Spirea,Google Search,Fully Meets,58709,2. 55k-65k,4.6,4,0,0,7,2012-02-20,2012,,N/A-StillEmployed,Active,0,7.02,Male,2. 30-39,Retention,,
+10066,Production,Production Technician I,Michael Albert,On-line Web application,Fully Meets,52505,1. Under 55k,5.0,5,0,0,1,2012-09-24,2012,2017-04-06,Another position,Left,1,4.53,Male,2. 30-39,Attrition,2017,2017-04-01
+10061,Production,Production Technician I,Kelley Spirea,Google Search,Fully Meets,57834,2. 55k-65k,5.0,4,0,0,20,2011-02-21,2011,2017-08-04,attendance,Left,1,6.45,Male,2. 30-39,Attrition,2017,2017-08-01
+10023,Production,Production Technician II,Kelley Spirea,Employee Referral,Exceeds,70131,3. 65k-80k,4.4,3,0,0,16,2016-07-21,2016,,N/A-StillEmployed,Active,0,2.61,Female,4. 50+,Retention,,
+10055,Production,Production Technician I,Elijiah Gray,Google Search,Fully Meets,59026,2. 55k-65k,5.0,5,0,0,12,2011-04-04,2011,,N/A-StillEmployed,Active,0,7.9,Female,3. 40-49,Retention,,
+10245,IT/IS,Database Administrator,Simon Roup,Google Search,Fully Meets,110000,4. 80k+,4.5,4,5,0,8,2014-07-07,2014,2015-09-12,performance,Left,1,1.18,Female,1. Under 30,Attrition,2015,2015-09-01
+10277,Production,Production Technician I,Webster Butler,LinkedIn,Fully Meets,53250,1. Under 55k,4.2,4,0,0,13,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Male,2. 30-39,Retention,,
+10046,Production,Production Technician I,Amy Dunn,Google Search,Fully Meets,51044,1. Under 55k,5.0,3,0,0,13,2012-04-02,2012,,N/A-StillEmployed,Active,0,6.91,Male,3. 40-49,Retention,,
+10226,Production,Production Technician I,Ketsia Liebig,Indeed,Fully Meets,64919,2. 55k-65k,4.2,3,0,0,2,2013-08-19,2013,,N/A-StillEmployed,Active,0,5.53,Female,4. 50+,Retention,,
+10003,Production,Production Technician I,Brannon Miller,Indeed,Exceeds,62910,2. 55k-65k,5.0,3,0,0,19,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Female,1. Under 30,Retention,,
+10294,Production,Production Technician II,Michael Albert,CareerBuilder,Needs Improvement,66441,3. 65k-80k,2.0,3,0,2,3,2011-04-04,2011,,N/A-StillEmployed,Active,0,7.9,Female,1. Under 30,Retention,,
+10267,Production,Production Technician II,Elijiah Gray,Google Search,Fully Meets,57815,2. 55k-65k,4.8,5,0,0,5,2011-01-10,2011,2014-04-04,career change,Left,1,3.23,Female,3. 40-49,Attrition,2014,2014-04-01
+10199,IT/IS,Enterprise Architect,Simon Roup,LinkedIn,Fully Meets,103613,4. 80k+,3.5,5,7,0,2,2014-02-17,2014,2016-02-19,Learned that he is a gangster,Left,1,2.0,Male,4. 50+,Attrition,2016,2016-02-01
+10081,Admin Offices,Sr. Accountant,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,106367,4. 80k+,5.0,4,3,0,4,2015-02-16,2015,,N/A-StillEmployed,Active,0,4.03,Female,2. 30-39,Retention,,
+10175,Production,Production Manager,Janet King,Indeed,Fully Meets,74312,3. 65k-80k,3.39,3,0,0,14,2013-09-30,2013,2014-08-07,retiring,Left,1,0.85,Male,3. 40-49,Attrition,2014,2014-08-01
+10177,Production,Production Technician I,David Stanley,Google Search,Fully Meets,53492,1. Under 55k,3.35,4,0,0,6,2012-04-02,2012,2013-06-15,Another position,Left,1,1.2,Female,1. Under 30,Attrition,2013,2013-06-01
+10238,Admin Offices,Accountant I,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,63000,2. 55k-65k,4.5,2,6,0,14,2008-10-27,2008,,N/A-StillEmployed,Active,0,10.34,Female,2. 30-39,Retention,,
+10184,Production,Production Technician II,Webster Butler,Google Search,Fully Meets,65288,3. 65k-80k,3.19,3,0,0,9,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Male,2. 30-39,Retention,,
+10203,Production,Production Technician I,Kissy Sullivan,Diversity Job Fair,Fully Meets,64375,2. 55k-65k,3.5,5,0,0,17,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Female,3. 40-49,Retention,,
+10188,Sales,Area Sales Manager,John Smith,Google Search,Fully Meets,74326,3. 65k-80k,3.14,5,0,1,19,2011-08-15,2011,2014-08-02,Another position,Left,1,2.97,Female,4. 50+,Attrition,2014,2014-08-01
+10107,Production,Production Technician II,Amy Dunn,Employee Referral,Fully Meets,63763,2. 55k-65k,4.51,4,0,0,3,2012-03-05,2012,,N/A-StillEmployed,Active,0,6.98,Female,2. 30-39,Retention,,
+10181,Production,Production Technician II,Ketsia Liebig,Indeed,Fully Meets,62162,2. 55k-65k,3.25,5,0,0,15,2011-04-04,2011,,N/A-StillEmployed,Active,0,7.9,Male,3. 40-49,Retention,,
+10150,Software Engineering,Software Engineering Manager,Jennifer Zamora,Google Search,Fully Meets,77692,3. 65k-80k,3.84,3,5,0,4,2011-08-15,2011,,N/A-StillEmployed,Active,0,7.54,Male,4. 50+,Retention,,
+10001,Production,Production Manager,Janet King,Indeed,Exceeds,72640,3. 65k-80k,5.0,3,0,0,14,2016-01-28,2016,,N/A-StillEmployed,Active,0,3.09,Male,2. 30-39,Retention,,
+10085,Software Engineering,Software Engineer,Alex Sweetwater,Indeed,Fully Meets,93396,4. 80k+,4.96,4,6,0,3,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Female,2. 30-39,Retention,,
+10115,Production,Production Technician I,Kelley Spirea,LinkedIn,Fully Meets,52846,1. Under 55k,4.43,3,0,0,14,2014-03-31,2014,,N/A-StillEmployed,Active,0,4.91,Male,2. 30-39,Retention,,
+10082,IT/IS,Sr. DBA,Simon Roup,LinkedIn,Fully Meets,100031,4. 80k+,5.0,5,6,0,7,2016-06-30,2016,,N/A-StillEmployed,Active,0,2.66,Female,2. 30-39,Retention,,
+10040,Sales,Area Sales Manager,John Smith,Indeed,Fully Meets,71860,3. 65k-80k,5.0,5,0,0,7,2014-08-18,2014,,N/A-StillEmployed,Active,0,4.53,Female,4. 50+,Retention,,
+10067,Production,Production Technician I,Michael Albert,Google Search,Fully Meets,61656,2. 55k-65k,5.0,4,0,0,11,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Female,4. 50+,Retention,,
+10108,IT/IS,BI Director,Jennifer Zamora,Indeed,Fully Meets,110929,4. 80k+,4.5,5,7,0,8,2016-09-06,2016,,N/A-StillEmployed,Active,0,2.48,Male,3. 40-49,Retention,,
+10210,Production,Production Technician I,Elijiah Gray,Indeed,Fully Meets,54237,1. Under 55k,3.3,4,0,0,11,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Female,3. 40-49,Retention,,
+10154,Production,Production Technician I,Webster Butler,LinkedIn,Fully Meets,60380,2. 55k-65k,3.8,5,0,0,4,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Male,2. 30-39,Retention,,
+10200,Sales,Area Sales Manager,Lynn Daneault,Employee Referral,Fully Meets,66808,3. 65k-80k,3.0,5,0,0,17,2012-05-14,2012,,N/A-StillEmployed,Active,0,6.79,Male,3. 40-49,Retention,,
+10240,Production,Production Technician I,Amy Dunn,Indeed,Fully Meets,64786,2. 55k-65k,4.3,4,0,0,3,2011-06-27,2011,2015-11-15,relocation out of area,Left,1,4.39,Female,2. 30-39,Attrition,2015,2015-11-01
+10168,Production,Production Technician I,Ketsia Liebig,Indeed,Fully Meets,64816,2. 55k-65k,3.58,5,0,0,3,2011-10-03,2011,,N/A-StillEmployed,Active,0,7.41,Female,2. 30-39,Retention,,
+10220,IT/IS,IT Support,Eric Dougall,Indeed,Fully Meets,68678,3. 65k-80k,4.7,3,6,0,2,2012-09-05,2012,,N/A-StillEmployed,Active,0,6.48,Male,2. 30-39,Retention,,
+10275,Production,Production Technician II,Brannon Miller,Google Search,Fully Meets,64066,2. 55k-65k,4.2,5,0,0,9,2011-05-16,2011,2013-01-07,unhappy,Left,1,1.65,Female,2. 30-39,Attrition,2013,2013-01-01
+10269,Production,Production Technician II,David Stanley,Indeed,Fully Meets,59369,2. 55k-65k,4.2,4,0,0,6,2010-08-30,2010,2011-09-26,career change,Left,1,1.07,Male,2. 30-39,Attrition,2011,2011-09-01
+10029,Production,Production Technician I,Brannon Miller,Employee Referral,Exceeds,50373,1. Under 55k,4.1,4,0,0,5,2016-07-06,2016,,N/A-StillEmployed,Active,0,2.65,Male,2. 30-39,Retention,,
+10261,Production,Production Technician I,David Stanley,Employee Referral,Fully Meets,63108,2. 55k-65k,4.4,5,0,0,3,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Male,3. 40-49,Retention,,
+10292,Production,Production Technician I,Kissy Sullivan,LinkedIn,Needs Improvement,59144,2. 55k-65k,2.0,3,0,5,16,2011-07-11,2011,2016-09-23,performance,Left,1,5.2,Male,2. 30-39,Attrition,2016,2016-09-01
+10282,Production,Production Manager,Janet King,CareerBuilder,Needs Improvement,68051,3. 65k-80k,4.13,2,0,3,3,2010-07-20,2010,,N/A-StillEmployed,Active,0,8.61,Male,3. 40-49,Retention,,
+10019,Production,Director of Operations,Janet King,Indeed,Exceeds,170500,4. 80k+,3.7,5,0,0,15,2009-01-05,2009,,N/A-StillEmployed,Active,0,10.15,Male,2. 30-39,Retention,,
+10094,Production,Production Technician I,Kelley Spirea,Indeed,Fully Meets,63381,2. 55k-65k,4.73,5,0,0,6,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Female,3. 40-49,Retention,,
+10193,IT/IS,Data Analyst,Simon Roup,Indeed,Fully Meets,83552,4. 80k+,3.04,3,6,0,2,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Male,2. 30-39,Retention,,
+10132,Production,Production Technician I,Michael Albert,LinkedIn,Fully Meets,56149,2. 55k-65k,4.12,5,0,0,15,2016-07-06,2016,,N/A-StillEmployed,Active,0,2.65,Female,2. 30-39,Retention,,
+10083,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,Fully Meets,92329,4. 80k+,5.0,3,4,0,5,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Male,4. 50+,Retention,,
+10099,Sales,Sales Manager,Debra Houlihan,Indeed,Fully Meets,65729,3. 65k-80k,4.62,4,0,0,8,2014-05-05,2014,,N/A-StillEmployed,Active,0,4.82,Female,1. Under 30,Retention,,
+10212,IT/IS,Sr. Network Engineer,Peter Monroe,LinkedIn,Fully Meets,85028,4. 80k+,3.1,5,8,0,19,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Female,4. 50+,Retention,,
+10056,Production,Production Technician I,Elijiah Gray,Indeed,Fully Meets,57583,2. 55k-65k,5.0,3,0,0,1,2012-07-02,2012,,N/A-StillEmployed,Active,0,6.66,Female,3. 40-49,Retention,,
+10143,Production,Production Technician II,Kissy Sullivan,LinkedIn,Fully Meets,56294,2. 55k-65k,3.96,4,0,0,6,2011-11-07,2011,,N/A-StillEmployed,Active,0,7.31,Male,2. 30-39,Retention,,
+10311,Production,Production Technician I,Brannon Miller,Indeed,Fully Meets,56991,2. 55k-65k,4.3,4,3,2,2,2018-07-09,2018,,N/A-StillEmployed,Active,0,0.64,Male,2. 30-39,Retention,,
+10070,Production,Production Technician I,Webster Butler,Indeed,Fully Meets,55722,2. 55k-65k,5.0,4,0,0,14,2011-05-16,2011,2016-06-08,unhappy,Left,1,5.07,Male,2. 30-39,Attrition,2016,2016-06-01
+10155,Software Engineering,Software Engineer,Alex Sweetwater,CareerBuilder,Fully Meets,101199,4. 80k+,3.79,5,5,0,8,2012-01-09,2012,,N/A-StillEmployed,Active,0,7.14,Female,2. 30-39,Retention,,
+10306,Sales,Area Sales Manager,John Smith,Indeed,PIP,61568,2. 55k-65k,1.93,3,0,6,5,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Male,3. 40-49,Retention,,
+10100,Production,Production Technician II,Kelley Spirea,Google Search,Fully Meets,58275,2. 55k-65k,4.62,5,0,0,1,2011-04-04,2011,2015-11-04,more money,Left,1,4.59,Female,4. 50+,Attrition,2015,2015-11-01
+10310,Production,Production Technician I,Amy Dunn,Indeed,PIP,53189,1. Under 55k,1.12,2,0,4,9,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Male,4. 50+,Retention,,
+10197,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets,96820,4. 80k+,3.01,5,7,0,15,2017-02-15,2017,,N/A-StillEmployed,Active,0,2.03,Male,2. 30-39,Retention,,
+10276,Production,Production Technician I,Ketsia Liebig,Indeed,Fully Meets,51259,1. Under 55k,4.3,4,0,0,1,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Male,2. 30-39,Retention,,
+10304,Sales,Area Sales Manager,John Smith,Website,PIP,59231,2. 55k-65k,2.3,1,0,2,17,2012-02-20,2012,,N/A-StillEmployed,Active,0,7.02,Female,2. 30-39,Retention,,
+10284,Production,Production Technician I,Brannon Miller,Indeed,Needs Improvement,61584,2. 55k-65k,3.88,4,0,0,6,2013-01-07,2013,,N/A-StillEmployed,Active,0,6.14,Female,3. 40-49,Retention,,
+10207,Production,Production Technician I,David Stanley,CareerBuilder,Fully Meets,46335,1. Under 55k,3.4,5,0,0,15,2012-04-02,2012,,N/A-StillEmployed,Active,0,6.91,Female,2. 30-39,Retention,,
+10133,IT/IS,IT Support,Peter Monroe,Employee Referral,Fully Meets,70621,3. 65k-80k,4.11,4,6,0,16,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Female,2. 30-39,Retention,,
+10028,IT/IS,IT Manager - Support,Jennifer Zamora,Indeed,Exceeds,138888,4. 80k+,4.3,5,5,0,4,2014-01-05,2014,,N/A-StillEmployed,Active,0,5.15,Male,3. 40-49,Retention,,
+10006,Sales,Area Sales Manager,Lynn Daneault,Indeed,Exceeds,74241,3. 65k-80k,4.77,5,0,0,14,2011-01-10,2011,,N/A-StillEmployed,Active,0,8.13,Female,2. 30-39,Retention,,
+10105,Production,Production Manager,Janet King,Google Search,Fully Meets,75188,3. 65k-80k,4.52,4,0,0,4,2014-09-18,2014,,N/A-StillEmployed,Active,0,4.45,Female,3. 40-49,Retention,,
+10211,Production,Production Technician I,Ketsia Liebig,Google Search,Fully Meets,62514,2. 55k-65k,2.9,3,0,0,6,2010-04-26,2010,,N/A-StillEmployed,Active,0,8.84,Female,3. 40-49,Retention,,
+10064,Production,Production Technician I,Kissy Sullivan,Google Search,Fully Meets,60070,2. 55k-65k,5.0,3,0,0,7,2011-04-04,2011,2017-06-06,military,Left,1,6.17,Female,1. Under 30,Attrition,2017,2017-06-01
+10247,Production,Production Technician I,Kelley Spirea,LinkedIn,Fully Meets,48888,1. Under 55k,4.7,5,0,0,8,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Male,3. 40-49,Retention,,
+10235,Production,Production Technician I,Kelley Spirea,Employee Referral,Fully Meets,54285,1. Under 55k,4.2,3,0,0,3,2014-03-31,2014,,N/A-StillEmployed,Active,0,4.91,Male,3. 40-49,Retention,,
+10299,Production,Production Technician II,Michael Albert,Indeed,PIP,56847,2. 55k-65k,3.0,1,0,2,5,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Female,1. Under 30,Retention,,
+10280,Production,Production Technician I,Michael Albert,Google Search,Needs Improvement,60340,2. 55k-65k,5.0,4,0,5,16,2012-04-02,2012,2018-09-27,attendance,Left,1,6.49,Male,2. 30-39,Attrition,2018,2018-09-01
+10296,Production,Production Technician I,Elijiah Gray,Google Search,Needs Improvement,59124,2. 55k-65k,2.3,3,0,5,19,2014-02-17,2014,2018-02-25,"no-call, no-show",Left,1,4.02,Female,1. Under 30,Attrition,2018,2018-02-01
+10290,Software Engineering,Software Engineer,Alex Sweetwater,Indeed,Needs Improvement,99280,4. 80k+,2.1,5,4,4,19,2011-05-02,2011,2013-06-05,attendance,Left,1,2.09,Female,1. Under 30,Attrition,2013,2013-06-01
+10263,Production,Production Technician II,Elijiah Gray,LinkedIn,Fully Meets,71776,3. 65k-80k,4.4,5,0,0,17,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Female,3. 40-49,Retention,,
+10136,Production,Production Technician II,Webster Butler,LinkedIn,Fully Meets,65902,3. 65k-80k,4.0,4,0,0,7,2014-02-17,2014,,N/A-StillEmployed,Active,0,5.03,Female,2. 30-39,Retention,,
+10189,Production,Production Technician I,Webster Butler,Google Search,Fully Meets,57748,2. 55k-65k,3.13,3,0,0,16,2011-11-07,2011,2016-05-17,military,Left,1,4.53,Female,4. 50+,Attrition,2016,2016-05-01
+10308,Production,Production Technician I,Amy Dunn,Indeed,PIP,64057,2. 55k-65k,1.56,5,0,6,15,2015-05-11,2015,,N/A-StillEmployed,Active,0,3.8,Male,1. Under 30,Retention,,
+10309,IT/IS,Network Engineer,Peter Monroe,LinkedIn,PIP,53366,1. Under 55k,1.2,3,6,3,2,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Male,2. 30-39,Retention,,
+10049,Production,Production Technician I,Brannon Miller,Google Search,Fully Meets,58530,2. 55k-65k,5.0,5,0,0,19,2012-01-09,2012,,N/A-StillEmployed,Active,0,7.14,Female,2. 30-39,Retention,,
+10093,Production,Production Technician II,Amy Dunn,Google Search,Fully Meets,72609,3. 65k-80k,4.76,5,0,0,20,2011-05-16,2011,2013-06-24,hours,Left,1,2.11,Male,2. 30-39,Attrition,2013,2013-06-01
+10163,Production,Production Technician II,Ketsia Liebig,Google Search,Fully Meets,55965,2. 55k-65k,3.66,3,0,0,6,2011-04-04,2011,2013-01-09,career change,Left,1,1.77,Female,1. Under 30,Attrition,2013,2013-01-01
+10305,Sales,Area Sales Manager,Lynn Daneault,Employee Referral,PIP,70187,3. 65k-80k,2.0,5,0,4,7,2014-09-29,2014,2018-08-19,Fatal attraction,Left,1,3.89,Male,3. 40-49,Attrition,2018,2018-08-01
+10015,IT/IS,IT Director,Jennifer Zamora,Indeed,Exceeds,178000,4. 80k+,5.0,5,5,0,15,2011-04-15,2011,,N/A-StillEmployed,Active,0,7.87,Male,2. 30-39,Retention,,
+10080,Admin Offices,Sr. Accountant,Board of Directors,Other,Fully Meets,99351,4. 80k+,5.0,3,2,0,3,2009-01-05,2009,,N/A-StillEmployed,Active,0,10.15,Female,2. 30-39,Retention,,
+10258,Sales,Area Sales Manager,Lynn Daneault,CareerBuilder,Fully Meets,67251,3. 65k-80k,4.3,3,0,2,7,2011-09-06,2011,,N/A-StillEmployed,Active,0,7.48,Male,4. 50+,Retention,,
+10273,IT/IS,IT Support,Eric Dougall,LinkedIn,Fully Meets,65707,3. 65k-80k,4.7,4,5,0,1,2010-05-01,2010,,N/A-StillEmployed,Active,0,8.83,Female,4. 50+,Retention,,
+10111,Production,Production Technician I,David Stanley,Employee Referral,Fully Meets,52249,1. Under 55k,4.5,3,0,0,5,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Male,2. 30-39,Retention,,
+10257,Production,Production Technician I,Kelley Spirea,LinkedIn,Fully Meets,53171,1. Under 55k,4.2,4,0,0,12,2011-05-16,2011,,N/A-StillEmployed,Active,0,7.79,Female,2. 30-39,Retention,,
+10159,Production,Production Technician I,Michael Albert,LinkedIn,Fully Meets,51337,1. Under 55k,3.73,3,0,0,19,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Female,1. Under 30,Retention,,
+10122,Production,Production Technician I,Elijiah Gray,Diversity Job Fair,Fully Meets,51505,1. Under 55k,4.24,4,0,0,2,2011-11-07,2011,2016-11-15,hours,Left,1,5.02,Female,3. 40-49,Attrition,2016,2016-11-01
+10142,Sales,Area Sales Manager,John Smith,CareerBuilder,Fully Meets,59370,2. 55k-65k,3.97,4,0,0,7,2014-07-07,2014,2015-09-05,attendance,Left,1,1.16,Female,3. 40-49,Attrition,2015,2015-09-01
+10283,Production,Production Technician I,Webster Butler,Diversity Job Fair,Needs Improvement,54933,1. Under 55k,3.97,4,0,3,15,2012-04-02,2012,2015-06-25,military,Left,1,3.23,Male,3. 40-49,Attrition,2015,2015-06-01
+10018,Production,Production Technician I,Amy Dunn,Indeed,Exceeds,57815,2. 55k-65k,3.9,4,0,0,3,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Female,2. 30-39,Retention,,
+10255,Sales,Area Sales Manager,Lynn Daneault,Indeed,Fully Meets,61555,2. 55k-65k,4.5,5,0,0,20,2015-02-16,2015,,N/A-StillEmployed,Active,0,4.03,Female,1. Under 30,Retention,,
+10246,IT/IS,Database Administrator,Simon Roup,Indeed,Fully Meets,114800,4. 80k+,4.6,4,4,0,10,2015-02-16,2015,2015-03-15,"no-call, no-show",Left,1,0.07,Female,3. 40-49,Attrition,2015,2015-03-01
+10228,IT/IS,IT Support,Peter Monroe,LinkedIn,Fully Meets,74679,3. 65k-80k,4.3,5,7,0,20,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Male,1. Under 30,Retention,,
+10243,Production,Production Technician I,Ketsia Liebig,Indeed,Fully Meets,53018,1. Under 55k,4.3,5,0,0,7,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Female,1. Under 30,Retention,,
+10031,Production,Production Technician I,Brannon Miller,Diversity Job Fair,Exceeds,59892,2. 55k-65k,4.5,4,0,0,1,2011-07-11,2011,,N/A-StillEmployed,Active,0,7.64,Male,3. 40-49,Retention,,
+10300,Production,Production Technician II,Brannon Miller,Diversity Job Fair,PIP,68898,3. 65k-80k,3.0,3,0,3,10,2010-04-26,2010,2011-05-30,career change,Left,1,1.09,Male,3. 40-49,Attrition,2011,2011-05-01
+10101,IT/IS,IT Support,Peter Monroe,Employee Referral,Fully Meets,61242,2. 55k-65k,4.61,4,5,0,11,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Female,2. 30-39,Retention,,
+10237,Production,Production Technician II,David Stanley,LinkedIn,Fully Meets,66825,3. 65k-80k,4.6,3,0,0,20,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Female,2. 30-39,Retention,,
+10051,Production,Production Technician I,David Stanley,LinkedIn,Fully Meets,48285,1. Under 55k,5.0,3,0,0,2,2012-07-02,2012,,N/A-StillEmployed,Active,0,6.66,Male,2. 30-39,Retention,,
+10218,Production,Production Technician II,Kissy Sullivan,Google Search,Fully Meets,66149,3. 65k-80k,4.4,5,0,0,1,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Female,2. 30-39,Retention,,
+10256,Production,Production Technician I,Kissy Sullivan,LinkedIn,Fully Meets,49256,1. Under 55k,4.1,5,0,0,3,2013-08-19,2013,,N/A-StillEmployed,Active,0,5.53,Female,3. 40-49,Retention,,
+10098,Production,Production Manager,Janet King,Employee Referral,Fully Meets,62957,2. 55k-65k,4.63,3,0,0,2,2015-06-02,2015,,N/A-StillEmployed,Active,0,3.74,Male,2. 30-39,Retention,,
+10059,Production,Production Technician I,Kelley Spirea,CareerBuilder,Fully Meets,63813,2. 55k-65k,5.0,5,0,0,17,2011-02-21,2011,2014-01-11,more money,Left,1,2.89,Female,2. 30-39,Attrition,2014,2014-01-01
+10234,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets,99020,4. 80k+,4.2,5,5,0,8,2017-04-20,2017,,N/A-StillEmployed,Active,0,1.86,Male,1. Under 30,Retention,,
+10109,Sales,Area Sales Manager,John Smith,LinkedIn,Fully Meets,71707,3. 65k-80k,4.5,5,0,0,20,2012-03-07,2012,2014-10-31,relocation out of area,Left,1,2.65,Male,3. 40-49,Attrition,2014,2014-10-01
+10125,Production,Production Technician I,Michael Albert,Google Search,Fully Meets,54828,1. Under 55k,4.2,4,0,0,13,2011-11-28,2011,,N/A-StillEmployed,Active,0,7.25,Female,3. 40-49,Retention,,
+10074,Production,Production Technician II,Kelley Spirea,LinkedIn,Fully Meets,64246,2. 55k-65k,5.0,3,0,0,20,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Male,2. 30-39,Retention,,
+10097,Production,Production Technician I,Webster Butler,CareerBuilder,Fully Meets,52177,1. Under 55k,4.64,4,0,0,8,2012-01-09,2012,2015-12-15,retiring,Left,1,3.93,Female,4. 50+,Attrition,2015,2015-12-01
+10007,Production,Production Technician I,Amy Dunn,CareerBuilder,Exceeds,62065,2. 55k-65k,4.76,4,0,0,5,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Female,3. 40-49,Retention,,
+10129,Production,Production Technician I,Ketsia Liebig,Google Search,Fully Meets,46998,1. Under 55k,4.17,4,0,0,1,2012-08-13,2012,,N/A-StillEmployed,Active,0,6.54,Male,2. 30-39,Retention,,
+10075,Production,Production Technician II,Kelley Spirea,CareerBuilder,Fully Meets,68099,3. 65k-80k,5.0,3,0,0,15,2011-01-10,2011,2013-06-18,hours,Left,1,2.44,Female,3. 40-49,Attrition,2013,2013-06-01
+10167,Sales,Area Sales Manager,John Smith,Indeed,Fully Meets,70545,3. 65k-80k,3.6,5,0,0,9,2014-08-18,2014,,N/A-StillEmployed,Active,0,4.53,Male,2. 30-39,Retention,,
+10195,Production,Production Technician II,Michael Albert,Indeed,Fully Meets,63478,2. 55k-65k,3.03,5,0,0,16,2011-08-15,2011,2012-04-07,relocation out of area,Left,1,0.65,Female,1. Under 30,Attrition,2012,2012-04-01
+10112,IT/IS,Database Administrator,Simon Roup,Indeed,Fully Meets,97999,4. 80k+,4.48,5,6,0,4,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Female,2. 30-39,Retention,,
+10272,Sales,Director of Sales,Janet King,LinkedIn,Fully Meets,180000,4. 80k+,4.5,4,0,0,19,2014-05-05,2014,,N/A-StillEmployed,Active,0,4.82,Female,4. 50+,Retention,,
+10182,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Indeed,Fully Meets,49920,1. Under 55k,3.24,3,4,0,6,2015-02-16,2015,2015-04-15,"no-call, no-show",Left,1,0.16,Female,1. Under 30,Attrition,2015,2015-04-01
+10248,Production,Production Technician I,Ketsia Liebig,LinkedIn,Fully Meets,55425,2. 55k-65k,4.8,4,0,0,4,2012-02-20,2012,,N/A-StillEmployed,Active,0,7.02,Female,2. 30-39,Retention,,
+10201,Production,Production Technician II,Elijiah Gray,LinkedIn,Fully Meets,69340,3. 65k-80k,3.0,5,0,0,4,2016-06-06,2016,,N/A-StillEmployed,Active,0,2.73,Female,2. 30-39,Retention,,
+10214,Production,Production Technician II,Webster Butler,Indeed,Fully Meets,64995,2. 55k-65k,4.5,3,0,0,6,2015-06-05,2015,,N/A-StillEmployed,Active,0,3.73,Female,1. Under 30,Retention,,
+10160,Production,Production Technician II,Amy Dunn,Google Search,Fully Meets,68182,3. 65k-80k,3.72,3,0,0,18,2011-02-21,2011,2013-04-01,unhappy,Left,1,2.11,Female,2. 30-39,Attrition,2013,2013-04-01
+10289,Production,Production Manager,Janet King,Indeed,Needs Improvement,83082,4. 80k+,2.34,2,0,3,4,2011-02-21,2011,2012-09-24,unhappy,Left,1,1.59,Male,2. 30-39,Attrition,2012,2012-09-01
+10139,Production,Production Technician I,Brannon Miller,Indeed,Fully Meets,51908,1. Under 55k,3.99,3,0,0,14,2013-08-19,2013,,N/A-StillEmployed,Active,0,5.53,Female,1. Under 30,Retention,,
+10227,Production,Production Technician I,David Stanley,LinkedIn,Fully Meets,61242,2. 55k-65k,4.1,3,0,0,7,2012-11-05,2012,,N/A-StillEmployed,Active,0,6.31,Female,3. 40-49,Retention,,
+10236,Production,Production Technician I,Kissy Sullivan,Employee Referral,Fully Meets,45069,1. Under 55k,4.3,5,0,0,7,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Female,4. 50+,Retention,,
+10009,Production,Production Technician II,Ketsia Liebig,LinkedIn,Exceeds,60724,2. 55k-65k,4.6,4,0,0,11,2011-07-05,2011,,N/A-StillEmployed,Active,0,7.65,Female,2. 30-39,Retention,,
+10060,Production,Production Technician I,Kelley Spirea,LinkedIn,Fully Meets,60436,2. 55k-65k,5.0,5,0,0,9,2014-01-06,2014,,N/A-StillEmployed,Active,0,5.14,Female,4. 50+,Retention,,
+10034,Production,Production Technician I,Michael Albert,CareerBuilder,Exceeds,46837,1. Under 55k,4.7,4,0,0,9,2011-11-07,2011,2018-04-29,more money,Left,1,6.48,Male,4. 50+,Attrition,2018,2018-04-01
+10156,IT/IS,Database Administrator,Simon Roup,Indeed,Fully Meets,105700,4. 80k+,3.75,3,5,0,2,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Female,2. 30-39,Retention,,
+10036,Production,Production Technician II,Brannon Miller,LinkedIn,Exceeds,63322,2. 55k-65k,4.3,3,0,0,1,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Female,3. 40-49,Retention,,
+10138,Production,Production Technician I,Elijiah Gray,CareerBuilder,Fully Meets,61154,2. 55k-65k,4.0,4,0,0,4,2011-01-10,2011,2016-04-01,unhappy,Left,1,5.22,Female,1. Under 30,Attrition,2016,2016-04-01
+10244,Sales,Sales Manager,Debra Houlihan,Google Search,Fully Meets,68999,3. 65k-80k,4.5,5,0,0,2,2011-11-07,2011,2014-04-24,maternity leave - did not return,Left,1,2.46,Female,1. Under 30,Attrition,2014,2014-04-01
+10192,Production,Production Technician I,Michael Albert,Indeed,Fully Meets,50482,1. Under 55k,3.07,4,0,0,10,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Male,3. 40-49,Retention,,
+10231,Sales,Area Sales Manager,Lynn Daneault,Indeed,Fully Meets,65310,3. 65k-80k,4.3,5,0,0,13,2013-08-19,2013,,N/A-StillEmployed,Active,0,5.53,Male,2. 30-39,Retention,,
+10089,Executive Office,President & CEO,Board of Directors,Indeed,Fully Meets,250000,4. 80k+,4.83,3,0,0,10,2012-07-02,2012,,N/A-StillEmployed,Active,0,6.66,Female,4. 50+,Retention,,
+10166,Production,Production Technician I,Webster Butler,Google Search,Fully Meets,54005,1. Under 55k,3.6,5,0,0,16,2011-09-26,2011,2015-06-04,more money,Left,1,3.69,Female,3. 40-49,Attrition,2015,2015-06-01
+10170,Production,Production Technician I,Amy Dunn,Google Search,Fully Meets,45433,1. Under 55k,3.49,4,0,0,6,2011-09-26,2011,2014-01-09,more money,Left,1,2.29,Female,3. 40-49,Attrition,2014,2014-01-01
+10208,Production,Production Technician I,Ketsia Liebig,LinkedIn,Fully Meets,46654,1. Under 55k,3.1,3,0,0,3,2014-02-17,2014,,N/A-StillEmployed,Active,0,5.03,Male,3. 40-49,Retention,,
+10176,Production,Production Technician I,Brannon Miller,Indeed,Fully Meets,63973,2. 55k-65k,3.38,3,0,0,17,2011-01-10,2011,,N/A-StillEmployed,Active,0,8.13,Male,2. 30-39,Retention,,
+10165,Sales,Area Sales Manager,John Smith,Diversity Job Fair,Fully Meets,71339,3. 65k-80k,3.65,5,0,0,20,2011-03-07,2011,,N/A-StillEmployed,Active,0,7.98,Male,4. 50+,Retention,,
+10113,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,Fully Meets,93206,4. 80k+,4.46,5,6,0,7,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Male,2. 30-39,Retention,,
+10092,Production,Production Manager,Janet King,Employee Referral,Fully Meets,82758,4. 80k+,4.78,4,0,0,9,2011-01-10,2011,2015-12-12,attendance,Left,1,4.92,Male,3. 40-49,Attrition,2015,2015-12-01
+10106,Production,Production Technician II,David Stanley,Indeed,Fully Meets,66074,3. 65k-80k,4.52,3,0,0,20,2013-01-07,2013,2014-03-31,Another position,Left,1,1.23,Female,2. 30-39,Attrition,2014,2014-03-01
+10052,Production,Production Technician I,David Stanley,LinkedIn,Fully Meets,46120,1. Under 55k,5.0,5,0,0,13,2012-07-09,2012,,N/A-StillEmployed,Active,0,6.64,Male,2. 30-39,Retention,,
+10038,Admin Offices,Accountant I,Brandon R. LeBlanc,Website,Fully Meets,64520,2. 55k-65k,5.0,4,4,0,3,2014-01-06,2014,,N/A-StillEmployed,Active,0,5.14,Male,2. 30-39,Retention,,
+10249,Production,Production Technician II,Kissy Sullivan,Google Search,Fully Meets,61962,2. 55k-65k,4.9,3,0,0,20,2012-04-02,2012,2013-04-15,more money,Left,1,1.03,Male,1. Under 30,Attrition,2013,2013-04-01
+10232,IT/IS,Senior BI Developer,Brian Champaigne,Indeed,Fully Meets,81584,4. 80k+,4.1,5,7,0,2,2016-10-02,2016,,N/A-StillEmployed,Active,0,2.41,Female,2. 30-39,Retention,,
+10087,Production,Production Technician I,Kissy Sullivan,CareerBuilder,Fully Meets,63676,2. 55k-65k,4.88,3,0,0,17,2011-09-26,2011,2018-08-19,return to school,Left,1,6.9,Female,2. 30-39,Attrition,2018,2018-08-01
+10134,Admin Offices,Shared Services Manager,Janet King,CareerBuilder,Fully Meets,93046,4. 80k+,4.1,4,0,0,20,2016-01-05,2016,,N/A-StillEmployed,Active,0,3.15,Male,2. 30-39,Retention,,
+10251,Production,Production Technician I,Elijiah Gray,Google Search,Fully Meets,64738,2. 55k-65k,4.1,3,0,0,10,2012-05-14,2012,,N/A-StillEmployed,Active,0,6.79,Male,2. 30-39,Retention,,
+10103,Sales,Area Sales Manager,John Smith,Website,Fully Meets,70468,3. 65k-80k,4.53,3,0,0,16,2012-04-30,2012,,N/A-StillEmployed,Active,0,6.83,Male,2. 30-39,Retention,,
+10017,Production,Production Manager,Janet King,Website,Exceeds,77915,3. 65k-80k,4.1,3,0,0,11,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Female,2. 30-39,Retention,,
+10186,Production,Production Technician I,Michael Albert,Indeed,Fully Meets,52624,1. Under 55k,3.18,4,0,0,16,2011-07-05,2011,2018-09-26,unhappy,Left,1,7.23,Female,2. 30-39,Attrition,2018,2018-09-01
+10137,Production,Production Technician II,Kelley Spirea,LinkedIn,Fully Meets,63450,2. 55k-65k,4.0,3,0,0,7,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Male,2. 30-39,Retention,,
+10008,IT/IS,IT Support,Eric Dougall,Diversity Job Fair,Exceeds,51777,1. Under 55k,4.64,4,5,0,14,2011-01-21,2011,,N/A-StillEmployed,Active,0,8.1,Female,2. 30-39,Retention,,
+10096,Production,Production Technician II,Michael Albert,LinkedIn,Fully Meets,67237,3. 65k-80k,4.65,4,0,0,15,2013-07-08,2013,2016-09-15,more money,Left,1,3.19,Female,2. 30-39,Attrition,2016,2016-09-01
+10035,Production,Production Technician II,Elijiah Gray,Indeed,Exceeds,73330,3. 65k-80k,4.2,4,0,0,19,2013-08-19,2013,,N/A-StillEmployed,Active,0,5.53,Female,2. 30-39,Retention,,
+10057,Production,Production Technician I,Elijiah Gray,Website,Fully Meets,52057,1. Under 55k,5.0,3,0,0,6,2015-02-16,2015,,N/A-StillEmployed,Active,0,4.03,Female,3. 40-49,Retention,,
+10004,Production,Production Technician I,Webster Butler,Diversity Job Fair,Exceeds,47434,1. Under 55k,5.0,4,0,0,17,2011-11-07,2011,2015-11-14,Another position,Left,1,4.02,Female,3. 40-49,Attrition,2015,2015-11-01
+10191,Production,Production Technician I,Amy Dunn,Indeed,Fully Meets,52788,1. Under 55k,3.08,4,0,0,18,2012-09-24,2012,2017-09-26,hours,Left,1,5.0,Male,3. 40-49,Attrition,2017,2017-09-01
+10219,Production,Production Technician I,Ketsia Liebig,LinkedIn,Fully Meets,45395,1. Under 55k,4.6,4,0,0,14,2014-01-06,2014,,N/A-StillEmployed,Active,0,5.14,Female,2. 30-39,Retention,,
+10077,Production,Production Technician II,Webster Butler,LinkedIn,Fully Meets,62385,2. 55k-65k,5.0,3,0,0,4,2016-05-11,2016,,N/A-StillEmployed,Active,0,2.8,Female,3. 40-49,Retention,,
+10073,Production,Production Technician II,Amy Dunn,LinkedIn,Fully Meets,68407,3. 65k-80k,5.0,4,0,0,16,2011-07-05,2011,2012-08-19,Another position,Left,1,1.13,Female,1. Under 30,Attrition,2012,2012-08-01
+10279,Production,Production Technician I,Brannon Miller,LinkedIn,Fully Meets,61349,2. 55k-65k,4.1,3,0,0,11,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Female,3. 40-49,Retention,,
+10110,Software Engineering,Software Engineer,Alex Sweetwater,Google Search,Fully Meets,105688,4. 80k+,4.5,5,4,0,14,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Female,2. 30-39,Retention,,
+10053,Production,Production Technician I,David Stanley,Indeed,Fully Meets,54132,1. Under 55k,5.0,4,0,0,8,2011-05-31,2011,,N/A-StillEmployed,Active,0,7.75,Female,3. 40-49,Retention,,
+10076,Production,Production Technician II,Ketsia Liebig,LinkedIn,Fully Meets,55315,2. 55k-65k,5.0,5,0,0,16,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Female,2. 30-39,Retention,,
+10145,Production,Production Technician I,Kissy Sullivan,CareerBuilder,Fully Meets,62810,2. 55k-65k,3.93,3,0,0,20,2013-01-07,2013,,N/A-StillEmployed,Active,0,6.14,Female,2. 30-39,Retention,,
+10202,Sales,Area Sales Manager,Lynn Daneault,Website,Fully Meets,63291,2. 55k-65k,3.4,4,0,0,7,2016-07-06,2016,,N/A-StillEmployed,Active,0,2.65,Male,2. 30-39,Retention,,
+10128,Production,Production Technician I,Kelley Spirea,Diversity Job Fair,Fully Meets,62659,2. 55k-65k,4.18,4,0,0,17,2012-04-02,2012,2016-11-11,Another position,Left,1,4.61,Female,3. 40-49,Attrition,2016,2016-11-01
+10068,Production,Production Technician I,Michael Albert,CareerBuilder,Fully Meets,55688,2. 55k-65k,5.0,4,0,0,10,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Female,3. 40-49,Retention,,
+10116,Production,Production Manager,Janet King,Indeed,Fully Meets,83667,4. 80k+,4.37,3,0,0,2,2012-08-16,2012,,N/A-StillEmployed,Active,0,6.54,Male,2. 30-39,Retention,,
+10298,Production,Production Technician II,Brannon Miller,LinkedIn,PIP,55800,2. 55k-65k,3.0,2,0,6,6,2011-08-15,2011,2014-09-04,unhappy,Left,1,3.06,Male,1. Under 30,Attrition,2014,2014-09-01
+10213,Production,Production Technician II,David Stanley,LinkedIn,Fully Meets,58207,2. 55k-65k,3.7,3,0,0,14,2011-11-07,2011,,N/A-StillEmployed,Active,0,7.31,Male,1. Under 30,Retention,,
+10288,IT/IS,IT Manager - Infra,Jennifer Zamora,Diversity Job Fair,Needs Improvement,157000,4. 80k+,2.39,3,6,4,13,2012-02-15,2012,,N/A-StillEmployed,Active,0,7.04,Male,2. 30-39,Retention,,
+10025,Production,Production Technician II,Kissy Sullivan,Indeed,Exceeds,72460,3. 65k-80k,4.7,3,0,0,1,2013-05-13,2013,,N/A-StillEmployed,Active,0,5.8,Female,3. 40-49,Retention,,
+10223,Production,Production Technician II,Kelley Spirea,Diversity Job Fair,Fully Meets,72106,3. 65k-80k,4.1,4,0,0,12,2012-01-09,2012,,N/A-StillEmployed,Active,0,7.14,Male,3. 40-49,Retention,,
+10151,IT/IS,Network Engineer,Peter Monroe,CareerBuilder,Fully Meets,52599,1. Under 55k,3.81,3,6,0,6,2015-02-16,2015,,N/A-StillEmployed,Active,0,4.03,Female,2. 30-39,Retention,,
+10254,Production,Production Technician I,Elijiah Gray,LinkedIn,Fully Meets,63430,2. 55k-65k,4.4,4,0,0,18,2013-04-01,2013,,N/A-StillEmployed,Active,0,5.91,Female,2. 30-39,Retention,,
+10120,Production,Production Technician II,Michael Albert,LinkedIn,Fully Meets,74417,3. 65k-80k,4.29,5,0,0,11,2013-05-13,2013,,N/A-StillEmployed,Active,0,5.8,Male,3. 40-49,Retention,,
+10216,Production,Production Technician I,Kissy Sullivan,LinkedIn,Fully Meets,57575,2. 55k-65k,4.1,4,0,0,13,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Male,2. 30-39,Retention,,
+10079,IT/IS,Senior BI Developer,Brian Champaigne,Indeed,Fully Meets,87921,4. 80k+,5.0,3,6,0,17,2017-02-10,2017,,N/A-StillEmployed,Active,0,2.05,Male,3. 40-49,Retention,,
+10215,Production,Production Technician I,Webster Butler,Diversity Job Fair,Fully Meets,50470,1. Under 55k,4.3,3,0,0,19,2011-09-26,2011,2014-04-04,return to school,Left,1,2.52,Male,1. Under 30,Attrition,2014,2014-04-01
+10185,Production,Production Technician I,Amy Dunn,Employee Referral,Fully Meets,46664,1. Under 55k,3.18,3,0,0,10,2013-04-01,2013,2016-05-25,more money,Left,1,3.15,Male,2. 30-39,Attrition,2016,2016-05-01
+10063,Production,Production Technician I,Ketsia Liebig,LinkedIn,Fully Meets,48495,1. Under 55k,5.0,5,0,0,11,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Male,3. 40-49,Retention,,
+10037,Production,Production Technician I,Brannon Miller,Diversity Job Fair,Exceeds,52984,1. Under 55k,4.0,3,0,0,12,2013-04-01,2013,,N/A-StillEmployed,Active,0,5.91,Female,4. 50+,Retention,,
+10042,Sales,Area Sales Manager,Lynn Daneault,Indeed,Fully Meets,63695,2. 55k-65k,5.0,5,0,0,2,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Female,1. Under 30,Retention,,
+10206,Production,Production Technician I,David Stanley,LinkedIn,Fully Meets,62061,2. 55k-65k,3.6,5,0,0,4,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Female,2. 30-39,Retention,,
+10104,Production,Production Technician II,Elijiah Gray,Indeed,Fully Meets,66738,3. 65k-80k,4.53,5,0,0,5,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Female,2. 30-39,Retention,,
+10303,Production,Production Technician I,Kissy Sullivan,LinkedIn,PIP,52674,1. Under 55k,2.33,2,0,6,3,2014-03-31,2014,2018-05-01,performance,Left,1,4.08,Female,2. 30-39,Attrition,2018,2018-05-01
+10078,Production,Production Technician II,Webster Butler,LinkedIn,Fully Meets,71966,3. 65k-80k,5.0,3,0,0,17,2012-05-14,2012,2013-08-19,unhappy,Left,1,1.26,Female,4. 50+,Attrition,2013,2013-08-01
+10121,Sales,Area Sales Manager,Lynn Daneault,Indeed,Fully Meets,63051,2. 55k-65k,4.28,3,0,0,1,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Female,1. Under 30,Retention,,
+10021,Production,Production Technician I,Kelley Spirea,LinkedIn,Exceeds,47414,1. Under 55k,5.0,3,0,0,13,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Male,3. 40-49,Retention,,
+10281,Production,Production Technician I,Michael Albert,LinkedIn,Needs Improvement,53060,1. Under 55k,4.25,3,0,4,6,2014-02-17,2014,,N/A-StillEmployed,Active,0,5.03,Male,2. 30-39,Retention,,
+10041,Sales,Area Sales Manager,John Smith,Website,Fully Meets,68829,3. 65k-80k,5.0,5,0,0,18,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Male,2. 30-39,Retention,,
+10148,Production,Production Technician I,Elijiah Gray,Google Search,Fully Meets,63515,2. 55k-65k,3.89,4,0,0,7,2011-02-07,2011,2014-01-12,Another position,Left,1,2.93,Female,2. 30-39,Attrition,2014,2014-01-01
+10005,Software Engineering,Software Engineer,Alex Sweetwater,Diversity Job Fair,Exceeds,108987,4. 80k+,5.0,5,3,0,13,2011-11-07,2011,2015-09-07,Another position,Left,1,3.83,Male,2. 30-39,Attrition,2015,2015-09-01
+10259,IT/IS,Data Analyst,Simon Roup,Employee Referral,Fully Meets,93093,4. 80k+,4.7,4,5,0,19,2014-12-01,2014,2016-05-01,performance,Left,1,1.42,Male,2. 30-39,Attrition,2016,2016-05-01
+10286,Production,Production Technician I,Webster Butler,Google Search,Needs Improvement,53564,1. Under 55k,3.54,5,0,4,15,2011-01-10,2011,2017-12-28,career change,Left,1,6.97,Male,1. Under 30,Attrition,2017,2017-12-01
+10297,Production,Production Technician II,Amy Dunn,CareerBuilder,Needs Improvement,60270,2. 55k-65k,2.4,5,0,5,2,2011-07-05,2011,2015-09-15,unhappy,Left,1,4.2,Female,1. Under 30,Attrition,2015,2015-09-01
+10171,Production,Production Technician I,Amy Dunn,LinkedIn,Fully Meets,45998,1. Under 55k,3.45,4,0,0,5,2011-05-16,2011,2015-10-25,medical issues,Left,1,4.44,Female,1. Under 30,Attrition,2015,2015-10-01
+10032,Production,Production Technician II,Ketsia Liebig,Indeed,Exceeds,57954,2. 55k-65k,4.2,5,0,0,12,2011-05-16,2011,2013-02-04,more money,Left,1,1.72,Female,1. Under 30,Attrition,2013,2013-02-01
+10130,Production,Production Manager,Janet King,Indeed,Fully Meets,74669,3. 65k-80k,4.16,5,0,0,6,2010-10-25,2010,2016-05-18,Another position,Left,1,5.56,Female,2. 30-39,Attrition,2016,2016-05-01
+10217,Production,Production Technician II,Brannon Miller,LinkedIn,Fully Meets,74226,3. 65k-80k,4.3,3,0,0,14,2012-04-02,2012,,N/A-StillEmployed,Active,0,6.91,Female,2. 30-39,Retention,,
+10016,IT/IS,Data Analyst,Simon Roup,Employee Referral,Exceeds,93554,4. 80k+,4.6,5,7,0,16,2014-11-10,2014,,N/A-StillEmployed,Active,0,4.3,Female,2. 30-39,Retention,,
+10050,Production,Production Technician I,Brannon Miller,Google Search,Fully Meets,64724,2. 55k-65k,5.0,3,0,0,13,2011-07-05,2011,2012-11-30,more money,Left,1,1.41,Male,1. Under 30,Attrition,2012,2012-11-01
+10164,Production,Production Technician I,David Stanley,Google Search,Fully Meets,47001,1. Under 55k,3.66,3,0,0,15,2007-11-05,2007,,N/A-StillEmployed,Active,0,11.32,Male,2. 30-39,Retention,,
+10124,Sales,Area Sales Manager,Lynn Daneault,Website,Fully Meets,61844,2. 55k-65k,4.2,5,0,0,9,2012-01-09,2012,,N/A-StillEmployed,Active,0,7.14,Female,2. 30-39,Retention,,
+10187,Production,Production Technician I,Kissy Sullivan,Google Search,Fully Meets,46799,1. Under 55k,3.17,4,0,0,14,2011-05-16,2011,2018-06-04,Another position,Left,1,7.05,Female,2. 30-39,Attrition,2018,2018-06-01
+10225,Production,Production Technician I,Kelley Spirea,Employee Referral,Fully Meets,59472,2. 55k-65k,4.8,3,0,0,14,2014-01-06,2014,,N/A-StillEmployed,Active,0,5.14,Male,4. 50+,Retention,,
+10262,Production,Production Technician I,Kissy Sullivan,Indeed,Fully Meets,46430,1. Under 55k,4.5,5,0,0,16,2012-09-24,2012,2013-06-18,unhappy,Left,1,0.73,Female,3. 40-49,Attrition,2013,2013-06-01
+10131,Software Engineering,Software Engineer,Janet King,Diversity Job Fair,Fully Meets,83363,4. 80k+,4.15,4,0,0,4,2011-02-21,2011,2015-08-15,career change,Left,1,4.48,Male,2. 30-39,Attrition,2015,2015-08-01
+10239,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets,95920,4. 80k+,4.4,4,6,0,10,2016-10-02,2016,,N/A-StillEmployed,Active,0,2.41,Female,2. 30-39,Retention,,
+10152,Production,Production Technician I,Michael Albert,Indeed,Fully Meets,61729,2. 55k-65k,3.8,5,0,0,19,2011-09-26,2011,2018-04-07,more money,Left,1,6.53,Male,2. 30-39,Attrition,2018,2018-04-01
+10140,Sales,Area Sales Manager,John Smith,CareerBuilder,Fully Meets,61809,2. 55k-65k,3.98,3,0,0,4,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Male,4. 50+,Retention,,
+10058,Production,Production Technician I,Elijiah Gray,LinkedIn,Fully Meets,45115,1. Under 55k,5.0,4,0,0,11,2011-05-16,2011,2016-01-15,retiring,Left,1,4.67,Male,2. 30-39,Attrition,2016,2016-01-01
+10011,Production,Production Technician I,Webster Butler,Google Search,Exceeds,46738,1. Under 55k,4.36,5,0,0,16,2011-11-28,2011,,N/A-StillEmployed,Active,0,7.25,Female,3. 40-49,Retention,,
+10230,Production,Production Technician II,David Stanley,Google Search,Fully Meets,64971,2. 55k-65k,4.5,4,0,0,10,2011-09-26,2011,2011-10-22,return to school,Left,1,0.07,Female,2. 30-39,Attrition,2011,2011-10-01
+10224,Production,Production Technician II,Kissy Sullivan,Indeed,Fully Meets,55578,2. 55k-65k,4.2,5,0,0,13,2011-07-05,2011,2012-02-08,Another position,Left,1,0.6,Male,2. 30-39,Attrition,2012,2012-02-01
+10047,Production,Production Technician I,Amy Dunn,Indeed,Fully Meets,50428,1. Under 55k,5.0,3,0,0,11,2011-01-10,2011,2016-01-26,attendance,Left,1,5.04,Male,3. 40-49,Attrition,2016,2016-01-01
+10285,Production,Production Technician I,Ketsia Liebig,Indeed,Needs Improvement,61422,2. 55k-65k,3.6,3,0,4,16,2011-01-10,2011,2016-05-17,attendance,Left,1,5.35,Female,2. 30-39,Attrition,2016,2016-05-01
+10020,Production,Production Technician I,Brannon Miller,Employee Referral,Exceeds,63353,2. 55k-65k,3.6,5,0,0,4,2013-07-08,2013,,N/A-StillEmployed,Active,0,5.64,Male,2. 30-39,Retention,,
+10162,IT/IS,Data Analyst,Simon Roup,Employee Referral,Fully Meets,89883,4. 80k+,3.69,5,6,0,15,2015-02-16,2015,,N/A-StillEmployed,Active,0,4.03,Female,2. 30-39,Retention,,
+10149,IT/IS,Principal Data Architect,Simon Roup,LinkedIn,Fully Meets,120000,4. 80k+,3.88,3,7,0,12,2015-01-05,2015,2018-11-10,Another position,Left,1,3.85,Female,3. 40-49,Attrition,2018,2018-11-01
+10086,IT/IS,Data Architect,Brian Champaigne,Indeed,Fully Meets,150290,4. 80k+,4.94,3,5,0,17,2017-01-07,2017,,N/A-StillEmployed,Active,0,2.14,Female,3. 40-49,Retention,,
+10054,Production,Production Technician I,David Stanley,Website,Fully Meets,60627,2. 55k-65k,5.0,4,0,0,8,2014-01-06,2014,,N/A-StillEmployed,Active,0,5.14,Female,3. 40-49,Retention,,
+10065,Production,Production Technician I,Kissy Sullivan,Google Search,Fully Meets,53180,1. Under 55k,5.0,5,0,0,4,2011-04-04,2011,2018-08-13,Another position,Left,1,7.36,Male,2. 30-39,Attrition,2018,2018-08-01
+10198,IT/IS,IT Manager - DB,Jennifer Zamora,Indeed,Fully Meets,140920,4. 80k+,3.6,5,7,0,13,2013-01-20,2013,,N/A-StillEmployed,Active,0,6.11,Male,3. 40-49,Retention,,
+10222,IT/IS,IT Manager - DB,Jennifer Zamora,Diversity Job Fair,Fully Meets,148999,4. 80k+,4.3,4,6,0,8,2012-01-09,2012,2015-11-04,hours,Left,1,3.82,Male,4. 50+,Attrition,2015,2015-11-01
+10126,Software Engineering,Software Engineer,Alex Sweetwater,Indeed,Fully Meets,86214,4. 80k+,4.2,3,6,0,2,2012-11-05,2012,,N/A-StillEmployed,Active,0,6.31,Female,2. 30-39,Retention,,
+10295,Production,Production Technician I,Kelley Spirea,Diversity Job Fair,Needs Improvement,47750,1. Under 55k,2.6,4,0,5,4,2016-07-04,2016,,N/A-StillEmployed,Active,0,2.65,Female,4. 50+,Retention,,
+10260,Production,Production Technician I,Michael Albert,Google Search,Fully Meets,46428,1. Under 55k,4.6,5,0,0,7,2009-01-05,2009,2018-07-30,relocation out of area,Left,1,9.56,Male,3. 40-49,Attrition,2018,2018-07-01
+10233,Production,Production Technician II,Kelley Spirea,CareerBuilder,Fully Meets,57975,2. 55k-65k,4.1,3,0,0,13,2010-08-30,2010,,N/A-StillEmployed,Active,0,8.5,Male,2. 30-39,Retention,,
+10229,IT/IS,Data Analyst,Simon Roup,LinkedIn,Fully Meets,88527,4. 80k+,4.2,3,5,0,2,2015-01-05,2015,2015-10-31,hours,Left,1,0.82,Male,1. Under 30,Attrition,2015,2015-10-01
+10169,Production,Production Technician I,Elijiah Gray,LinkedIn,Fully Meets,56147,2. 55k-65k,3.51,3,0,0,2,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Female,2. 30-39,Retention,,
+10071,Production,Production Technician I,Webster Butler,Google Search,Fully Meets,50923,1. Under 55k,5.0,5,0,0,14,2013-09-30,2013,,N/A-StillEmployed,Active,0,5.41,Female,3. 40-49,Retention,,
+10179,IT/IS,Network Engineer,Peter Monroe,LinkedIn,Fully Meets,50750,1. Under 55k,3.31,3,6,0,7,2014-09-30,2014,,N/A-StillEmployed,Active,0,4.41,Female,2. 30-39,Retention,,
+10091,Production,Production Technician I,Amy Dunn,LinkedIn,Fully Meets,52087,1. Under 55k,4.81,4,0,0,15,2013-08-19,2013,,N/A-StillEmployed,Active,0,5.53,Female,2. 30-39,Retention,,
+10178,IT/IS,Data Analyst,Simon Roup,Employee Referral,Fully Meets,87826,4. 80k+,3.32,3,7,0,16,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Male,3. 40-49,Retention,,
+10039,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Website,Fully Meets,51920,1. Under 55k,5.0,3,5,0,2,2015-05-01,2015,,N/A-StillEmployed,Active,0,3.83,Female,2. 30-39,Retention,,
+10095,Production,Production Technician II,Michael Albert,CareerBuilder,Fully Meets,63878,2. 55k-65k,4.68,4,0,0,20,2009-10-26,2009,2015-04-08,maternity leave - did not return,Left,1,5.45,Female,1. Under 30,Attrition,2015,2015-04-01
+10027,Production,Production Technician II,Elijiah Gray,Indeed,Exceeds,60656,2. 55k-65k,4.3,3,0,0,4,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Male,4. 50+,Retention,,
+10291,Sales,Sales Manager,Debra Houlihan,Diversity Job Fair,Needs Improvement,72992,3. 65k-80k,2.4,4,0,2,16,2014-05-18,2014,,N/A-StillEmployed,Active,0,4.78,Male,2. 30-39,Retention,,
+10153,Admin Offices,Administrative Assistant,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,55000,2. 55k-65k,3.8,4,4,0,17,2011-09-26,2011,2013-09-25,career change,Left,1,2.0,Female,1. Under 30,Attrition,2013,2013-09-01
+10157,Production,Production Technician I,Ketsia Liebig,Employee Referral,Fully Meets,58939,2. 55k-65k,3.73,3,0,0,16,2013-11-11,2013,,N/A-StillEmployed,Active,0,5.3,Female,4. 50+,Retention,,
+10119,IT/IS,IT Support,Eric Dougall,LinkedIn,Fully Meets,66593,3. 65k-80k,4.3,3,5,0,19,2011-06-10,2011,,N/A-StillEmployed,Active,0,7.72,Female,3. 40-49,Retention,,
+10180,IT/IS,Sr. Network Engineer,Peter Monroe,LinkedIn,Fully Meets,87565,4. 80k+,3.27,4,5,0,13,2016-06-30,2016,,N/A-StillEmployed,Active,0,2.66,Male,2. 30-39,Retention,,
+10302,Production,Production Technician I,Brannon Miller,Indeed,PIP,64021,2. 55k-65k,2.4,2,1,6,20,2012-02-20,2012,,N/A-StillEmployed,Active,0,7.02,Female,4. 50+,Retention,,
+10090,Production,Production Manager,Janet King,LinkedIn,Fully Meets,65714,3. 65k-80k,4.83,5,0,0,15,2012-10-02,2012,,N/A-StillEmployed,Active,0,6.41,Female,3. 40-49,Retention,,
+10030,Production,Production Technician I,David Stanley,LinkedIn,Exceeds,62425,2. 55k-65k,4.1,4,0,0,16,2013-05-13,2013,2015-06-29,unhappy,Left,1,2.13,Female,3. 40-49,Attrition,2015,2015-06-01
+10278,Production,Production Technician I,Kissy Sullivan,Google Search,Fully Meets,47961,1. Under 55k,4.1,4,0,0,9,2011-01-10,2011,,N/A-StillEmployed,Active,0,8.13,Female,2. 30-39,Retention,,
+10307,Sales,Area Sales Manager,Lynn Daneault,Website,PIP,58273,2. 55k-65k,1.81,2,0,3,5,2014-05-12,2014,,N/A-StillEmployed,Active,0,4.8,Male,3. 40-49,Retention,,
+10147,Admin Offices,Accountant I,Brandon R. LeBlanc,Indeed,Fully Meets,63003,2. 55k-65k,3.9,5,5,0,9,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Male,2. 30-39,Retention,,
+10266,Production,Production Technician I,Kelley Spirea,LinkedIn,Fully Meets,61355,2. 55k-65k,4.7,3,0,0,4,2014-02-17,2014,,N/A-StillEmployed,Active,0,5.03,Male,2. 30-39,Retention,,
+10241,Sales,Area Sales Manager,John Smith,Indeed,Fully Meets,60120,2. 55k-65k,4.1,4,0,0,18,2010-09-27,2010,,N/A-StillEmployed,Active,0,8.42,Female,1. Under 30,Retention,,
+10158,Production,Production Manager,Janet King,Indeed,Fully Meets,63682,2. 55k-65k,3.73,4,0,0,12,2009-01-08,2009,,N/A-StillEmployed,Active,0,10.14,Female,3. 40-49,Retention,,
+10117,Production,Production Technician I,Michael Albert,Google Search,Fully Meets,63025,2. 55k-65k,4.36,5,0,0,10,2015-01-05,2015,,N/A-StillEmployed,Active,0,4.15,Male,2. 30-39,Retention,,
+10209,Production,Production Technician I,Elijiah Gray,Indeed,Fully Meets,59238,2. 55k-65k,3.4,5,0,0,13,2012-05-14,2012,,N/A-StillEmployed,Active,0,6.79,Female,4. 50+,Retention,,
+10024,Software Engineering,Software Engineer,Alex Sweetwater,LinkedIn,Exceeds,92989,4. 80k+,4.5,5,5,0,1,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Male,2. 30-39,Retention,,
+10173,IT/IS,BI Developer,Brian Champaigne,Indeed,Fully Meets,90100,4. 80k+,3.4,3,6,0,14,2017-04-20,2017,,N/A-StillEmployed,Active,0,1.86,Male,2. 30-39,Retention,,
+10221,Production,Production Technician I,Webster Butler,Diversity Job Fair,Fully Meets,60754,2. 55k-65k,4.5,5,0,0,11,2009-04-27,2009,2013-04-01,Another position,Left,1,3.93,Female,2. 30-39,Attrition,2013,2013-04-01
+10146,Production,Production Technician II,Elijiah Gray,Google Search,Fully Meets,72202,3. 65k-80k,3.93,3,0,0,3,2011-05-16,2011,2017-07-08,Another position,Left,1,6.15,Female,4. 50+,Attrition,2017,2017-07-01
+10161,Sales,Area Sales Manager,Lynn Daneault,Indeed,Fully Meets,58370,2. 55k-65k,3.69,3,0,0,18,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Female,4. 50+,Retention,,
+10141,Production,Production Technician I,Amy Dunn,Indeed,Fully Meets,48413,1. Under 55k,3.98,4,0,0,1,2011-07-05,2011,2016-09-05,return to school,Left,1,5.17,Female,4. 50+,Attrition,2016,2016-09-01
+10268,Production,Production Technician II,Webster Butler,Other,Fully Meets,67176,3. 65k-80k,4.1,4,0,0,15,2007-06-25,2007,2010-08-30,military,Left,1,3.18,Male,2. 30-39,Attrition,2010,2010-08-01
+10123,Production,Production Technician I,Brannon Miller,Indeed,Fully Meets,56339,2. 55k-65k,4.21,5,0,0,4,2013-02-18,2013,,N/A-StillEmployed,Active,0,6.03,Female,4. 50+,Retention,,
+10013,Sales,Area Sales Manager,Lynn Daneault,Indeed,Exceeds,64397,2. 55k-65k,4.1,3,0,0,6,2006-01-09,2006,,N/A-StillEmployed,Active,0,13.14,Male,4. 50+,Retention,,
+10287,Production,Production Technician I,David Stanley,LinkedIn,Needs Improvement,63025,2. 55k-65k,2.44,5,0,4,18,2014-02-17,2014,,N/A-StillEmployed,Active,0,5.03,Female,2. 30-39,Retention,,
+10044,IT/IS,Network Engineer,Peter Monroe,CareerBuilder,Fully Meets,75281,3. 65k-80k,5.0,3,5,0,11,2015-01-05,2015,2016-02-12,medical issues,Left,1,1.1,Male,1. Under 30,Attrition,2016,2016-02-01
+10102,Software Engineering,Software Engineer,Alex Sweetwater,Diversity Job Fair,Fully Meets,100416,4. 80k+,4.6,3,4,0,9,2013-02-18,2013,2018-04-15,medical issues,Left,1,5.15,Male,2. 30-39,Attrition,2018,2018-04-01
+10270,Production,Production Technician II,Amy Dunn,LinkedIn,Fully Meets,74813,3. 65k-80k,4.4,3,0,0,5,2011-01-10,2011,2014-07-02,unhappy,Left,1,3.47,Female,1. Under 30,Attrition,2014,2014-07-01
+10045,IT/IS,Network Engineer,Peter Monroe,Employee Referral,Fully Meets,76029,3. 65k-80k,5.0,4,7,0,8,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Male,3. 40-49,Retention,,
+10205,Sales,Area Sales Manager,John Smith,Indeed,Fully Meets,57859,2. 55k-65k,2.81,3,0,0,16,2011-07-05,2011,,N/A-StillEmployed,Active,0,7.65,Female,1. Under 30,Retention,,
+10014,Production,Production Technician I,Kissy Sullivan,LinkedIn,Exceeds,58523,2. 55k-65k,4.5,5,0,0,15,2012-08-13,2012,2016-02-05,maternity leave - did not return,Left,1,3.48,Male,1. Under 30,Attrition,2016,2016-02-01
+10144,Production,Production Manager,Janet King,Employee Referral,Fully Meets,88976,4. 80k+,3.93,3,0,0,19,2011-08-01,2011,,N/A-StillEmployed,Active,0,7.58,Male,4. 50+,Retention,,
+10253,Sales,Area Sales Manager,John Smith,Website,Fully Meets,55875,2. 55k-65k,4.5,4,0,0,11,2012-03-05,2012,,N/A-StillEmployed,Active,0,6.98,Male,1. Under 30,Retention,,
+10118,IT/IS,Database Administrator,Simon Roup,Employee Referral,Fully Meets,113999,4. 80k+,4.33,3,7,0,9,2015-02-16,2015,2017-02-22,"no-call, no-show",Left,1,2.02,Male,2. 30-39,Attrition,2017,2017-02-01
+10022,Production,Production Technician I,Kelley Spirea,Google Search,Exceeds,49773,1. Under 55k,4.3,5,0,0,18,2011-09-26,2011,2016-02-08,gross misconduct,Left,1,4.37,Female,1. Under 30,Attrition,2016,2016-02-01
+10183,Production,Production Technician I,Michael Albert,LinkedIn,Fully Meets,62068,2. 55k-65k,3.21,3,0,0,7,2015-07-05,2015,,N/A-StillEmployed,Active,0,3.65,Female,2. 30-39,Retention,,
+10190,Production,Production Technician II,Ketsia Liebig,Employee Referral,Fully Meets,66541,3. 65k-80k,3.11,5,0,0,4,2014-08-18,2014,,N/A-StillEmployed,Active,0,4.53,Male,3. 40-49,Retention,,
+10274,Production,Production Manager,Janet King,Diversity Job Fair,Fully Meets,80512,4. 80k+,4.5,3,0,0,5,2011-09-26,2011,2012-01-02,Another position,Left,1,0.27,Female,4. 50+,Attrition,2012,2012-01-01
+10293,Production,Production Technician I,Elijiah Gray,CareerBuilder,Needs Improvement,50274,1. Under 55k,2.5,3,0,6,13,2012-08-13,2012,2015-09-01,career change,Left,1,3.05,Female,2. 30-39,Attrition,2015,2015-09-01
+10172,IT/IS,Senior BI Developer,Brian Champaigne,Indeed,Fully Meets,84903,4. 80k+,3.42,4,7,0,17,2017-02-15,2017,,N/A-StillEmployed,Active,0,2.03,Male,2. 30-39,Retention,,
+10127,IT/IS,Sr. Network Engineer,Peter Monroe,Employee Referral,Fully Meets,107226,4. 80k+,4.2,4,8,0,7,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Female,3. 40-49,Retention,,
+10072,Production,Production Technician I,Webster Butler,LinkedIn,Fully Meets,58371,2. 55k-65k,5.0,5,0,0,11,2011-01-10,2011,2014-05-15,hours,Left,1,3.34,Male,1. Under 30,Attrition,2014,2014-05-01
+10048,Production,Production Technician I,Amy Dunn,Website,Fully Meets,55140,2. 55k-65k,5.0,3,0,0,7,2011-05-16,2011,2015-09-07,unhappy,Left,1,4.31,Male,3. 40-49,Attrition,2015,2015-09-01
+10204,Production,Production Technician I,Ketsia Liebig,Google Search,Fully Meets,58062,2. 55k-65k,3.6,5,0,0,9,2011-01-10,2011,2012-05-14,Another position,Left,1,1.34,Female,1. Under 30,Attrition,2012,2012-05-01
+10264,Production,Production Technician I,Ketsia Liebig,Diversity Job Fair,Fully Meets,59728,2. 55k-65k,4.3,4,0,0,16,2012-01-09,2012,2015-06-27,relocation out of area,Left,1,3.46,Female,3. 40-49,Attrition,2015,2015-06-01
+10033,Production,Production Technician II,Brannon Miller,LinkedIn,Exceeds,70507,3. 65k-80k,5.0,3,0,0,7,2013-01-07,2013,2016-02-21,retiring,Left,1,3.12,Male,4. 50+,Attrition,2016,2016-02-01
+10174,Production,Production Technician II,David Stanley,LinkedIn,Fully Meets,60446,2. 55k-65k,3.4,4,0,0,14,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Female,2. 30-39,Retention,,
+10135,Production,Production Technician II,Kissy Sullivan,LinkedIn,Fully Meets,65893,3. 65k-80k,4.07,4,0,0,13,2014-07-07,2014,,N/A-StillEmployed,Active,0,4.65,Male,2. 30-39,Retention,,
+10301,Production,Production Technician I,Brannon Miller,Google Search,PIP,48513,1. Under 55k,3.2,2,0,5,4,2008-09-02,2008,2015-09-29,Another position,Left,1,7.07,Female,2. 30-39,Attrition,2015,2015-09-01
+10010,IT/IS,CIO,Janet King,Employee Referral,Exceeds,220450,4. 80k+,4.6,5,6,0,16,2010-04-10,2010,,N/A-StillEmployed,Active,0,8.89,Female,2. 30-39,Retention,,
+10043,IT/IS,Data Analyst,Simon Roup,Employee Referral,Fully Meets,89292,4. 80k+,5.0,3,5,0,11,2015-03-30,2015,,N/A-StillEmployed,Active,0,3.92,Female,3. 40-49,Retention,,
+10271,Production,Production Technician I,David Stanley,LinkedIn,Fully Meets,45046,1. Under 55k,4.5,5,0,0,2,2014-09-29,2014,,N/A-StillEmployed,Active,0,4.42,Female,3. 40-49,Retention,,
