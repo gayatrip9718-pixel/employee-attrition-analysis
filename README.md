@@ -51,4 +51,4 @@ python make_db.py   # then open hr.db in DB Browser for SQLite and run attrition
 ```
 
 ## Dashboard
-[Add screenshot or Tableau Public link here]
+![Dashboard](dashboard)
